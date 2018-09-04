@@ -4,7 +4,7 @@ Collects individuals relevant fitness information and calculates their macro nut
 
 To use it, simply clone repository and run the program on any IDE of choice.
 
-#Credits
+# Credits
 
 [Keto Macros: How to Calculate Your Optimal Ketogenic Macronutrients](https://www.perfectketo.com/keto-macros-how-to-calculate-your-optimal-ketogenic-macronutrients/)
 
